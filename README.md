@@ -12,7 +12,7 @@ This project is a desktop application for macOS that allows users to compress im
 ## Installation
 Follow these steps to set up the project on your macOS system:
 1. Clone the repository:
-git clone https://github.com/mikexarau/Desktop-APP-Compressor.git
+git clone https://github.com/mikexarau/Universal-File-Compressor-Desktop-Application-for-macOS.git
 
 2. Navigate to the project directory:
 cd Desktop-APP-Compressor
