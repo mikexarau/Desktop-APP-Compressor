@@ -1,3 +1,4 @@
 *.py linguist-detectable=true
 *.html linguist-detectable=false
 *.plsql linguist-detectable=false
+*.roof linguist-detectable=false
