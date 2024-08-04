@@ -1,4 +1,4 @@
-# Contributing to [Universal File Compressor - Desktop Aplication for macOS ]
+# Contributing to [Universal File Compressor - Desktop Application for macOS ]
 
 Thank you for considering contributing to this project! Here are a few guidelines to get started.
 
