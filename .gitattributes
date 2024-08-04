@@ -1,3 +1,4 @@
+__pycache__/
 *.py linguist-language=Python
 *.py linguist-detectable=true
 *.html linguist-detectable=false
