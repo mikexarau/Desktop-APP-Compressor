@@ -1,4 +1,8 @@
+*.py linguist-language=Python
 *.py linguist-detectable=true
 *.html linguist-detectable=false
+*.sql linguist-detectable=false
 *.plsql linguist-detectable=false
 *.roof linguist-detectable=false
+path/to/some/folder/* linguist-detectable=false
+
